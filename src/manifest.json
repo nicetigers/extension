@@ -6,9 +6,5 @@
   "chrome_url_overrides": {
     "newtab": "agenda.html"
   },
-  "manifest_version": 2,
-  "permissions": [
-        "http://newice.herokuapp.com/*",
-        "http://*.newice.herokuapp.com/"
-    ]
+  "manifest_version": 2
 }
