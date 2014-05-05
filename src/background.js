@@ -9,6 +9,7 @@ $(function() {
          frameborder: "0"
   }).load(function(e){  
     $('#loading').remove();
+    $('#frame1').show();
   }).appendTo($('#container_body'));
 });
 
