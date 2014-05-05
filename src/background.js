@@ -5,7 +5,7 @@ $(function() {
          class:'myframe',
          height: "100%",
          width: "100%",
-         src: 'http://newice.herokuapp.com',
+         src: 'http://recal.io/chromeframe/',
          frameborder: "0"
   }).load(function(e){  
     $('#loading').remove();
