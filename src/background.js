@@ -6,7 +6,8 @@ $(function() {
          height: "100%",
          width: "100%",
          src: 'http://recal.io/chromeframe/',
-         frameborder: "0"
+         frameborder: "0",
+         scrolling: "no"
   }).load(function(e){  
     $('#loading').remove();
     $('#frame1').show();
