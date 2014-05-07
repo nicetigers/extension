@@ -10,7 +10,6 @@ $(function() {
          scrolling: "no"
   }).load(function(e){  
     $('#loading').remove();
-    $('#frame1').show();
-  }).appendTo($('#container_body'));
+  }).appendTo($('#frame_holder'));
 });
 
